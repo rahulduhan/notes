@@ -7,4 +7,3 @@
 - [ ] CSS
 - [ ] Lua
 - [ ] Agriculture Notes
-- [ ] 
