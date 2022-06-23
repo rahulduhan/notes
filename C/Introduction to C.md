@@ -9,8 +9,10 @@
 - Read more on the wikipedia.
 
 > All the notes are based on a ~~Youtube~~ _cringetube_ playlist of C programming for beginners.
->  How to watch ?
-> 	Download using yt-dlp
-> 	Else if you want to stream use mpv or invidious.
-> 	There is sponser content in all the video so use sponserblock on 
-https://redirect.invidious.io/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S
+
+##### How to watch ? 
+- Download using yt-dlp
+	- Else if you want to stream use mpv or invidious.
+		- There is sponser content in all the video so use sponserblock if streaming.
+		
+[Click here to view the playlist](https://redirect.invidious.io/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S)
