@@ -7,7 +7,7 @@
 ## Introduction 
 - C programming language was developed in 1972 by **_Dennis Ritchie_** at Bells Labs.
 -  C is one of the finest and oldest programming language.
-- Read more on the wikipedia.
+- Read more on the [wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)).
 
 
 > All the notes are based on a ~~Youtube~~ _cringetube_ playlist of C programming for beginners.
