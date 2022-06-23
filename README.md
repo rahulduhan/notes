@@ -3,3 +3,8 @@
 
 #### TO DO 
 - [ ] C Rewrite
+- [ ] HTML 
+- [ ] CSS
+- [ ] Lua
+- [ ] Agriculture Notes
+- [ ] 
