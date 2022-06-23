@@ -1,5 +1,5 @@
 # Notes
-Important Notes
+`Important Notes`
 
-TO DO 
-- [ ] C Notes Rewrite
+#### TO DO 
+- [ ] C Rewrite
