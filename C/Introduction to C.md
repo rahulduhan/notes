@@ -8,6 +8,9 @@
 -  C is one of the finest and oldest programming language.
 - Read more on the wikipedia.
 
-> I watched a C lecture playlist on ~~youtube~~ cringetube.
-> You can 
+> All the notes are based on a ~~Youtube~~ _cringetube_ playlist of C programming for beginners.
+>  How to watch ?
+> 	Download using yt-dlp
+> 	Else if you want to stream use mpv or invidious.
+> 	There is sponser content in all the video so use sponserblock on 
 https://redirect.invidious.io/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S
