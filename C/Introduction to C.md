@@ -1,2 +1,5 @@
-<p align="centre">
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="/Attachments/Pasted image 20220623235535.png">
+<p align="center">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width ="100">
+</a>
+</p>
