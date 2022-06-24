@@ -17,8 +17,8 @@
 - float
 	- memory size -> `4 bytes`
 	- range -> `- 3.4 e38 to 3.4 e38`
-	- double -> `8 bytes` %lf
-	- long double -> `10 bytes`
+	- double -> `8 bytes`  `%lf`
+	- long double -> `10 bytes` `%LF`
 - char
 	- memory size -> `1 byte or 8 bit`
 	- signed -> `- 128 to 127`
