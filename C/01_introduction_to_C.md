@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img src="../Attachments/C_wiki.png" width ="170">
+<img src="../Attachments/c.svg" width ="170">
 </a>
 </p>
 
