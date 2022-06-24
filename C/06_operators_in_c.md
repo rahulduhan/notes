@@ -6,4 +6,16 @@
 
 #### Unary
 - `-` (unary minus)
-- `++` , `--` (increment )
+- `++` , `--` (increment , decrement)
+- `!` (logical not)
+- `&` (address of)
+- `size of`
+
+#### Binary
+- Arithmatic (`+`  `-` `/` `*` `%`)  
+- Reletimal (`<` `>` `<=` `>=`)
+- Logical
+- Bitwise
+- Equality operator
+- Comma operator
+- Assignment operator
