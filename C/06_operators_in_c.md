@@ -14,8 +14,19 @@
 #### Binary
 - Arithmatic (`+`  `-` `/` `*` `%`)  
 - Reletimal (`<` `>` `<=` `>=`)
-- Logical
-- Bitwise
-- Equality operator
-- Comma operator
-- Assignment operator
+- Logical (`&&` `||`)
+- Bitwise (`&` `|` `<<` `>>` `^` `~`)
+- Equality operator (`==` `!=`)
+- Comma operator (`,`)
+- Assignment operator (`=`)
+
+#### Ternery
+- `condition ? value_if_true : value_if_false`
+	- eg 
+	 ```c
+int a = 10, b = 20, c;
+
+c = (a < b) ? a : b;
+
+printf("%d", c);
+```
