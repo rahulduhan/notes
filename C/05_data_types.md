@@ -11,8 +11,10 @@
 	 - long int -> 4 bytes
 
 		 int for 16 bit -> 
+		 
 		 	=> signed -> -32768 to 32747  (default)
-		 	=>unsigned -> 0 to 65535 
+		 
+			=>unsigned -> 0 to 65535 
 - float
 	- memory size -> 1 byte or 8 bit
 	- 
