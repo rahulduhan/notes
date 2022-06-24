@@ -1,4 +1,4 @@
-# [[qemu installation]]
+# [[qemu_installation]]
 
 ### Required Pacakages
 ``` bash
