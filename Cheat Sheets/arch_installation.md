@@ -7,27 +7,27 @@
 
 ## Partioning
 >lsblk -l
-  cfdisk /dev/sdx 
+  cfdisk /dev/xxx 
 
 #### Partition table
 		
-	    /dev/sdx1 250M                                                           (X)
-	    /dev/sdx2 16G  
-	    Linux Swap    /dev/sdx4 ___G Linux File System
+	    /dev/xxx1 250M                                                           (X)
+	    /dev/xxx2 16G  
+	    Linux Swap    /dev/xxx4 ___G Linux File System
 
 >lsblk -l
 
->mkfs.fat -f32 /dev/sdx1                                                                                                          (X)
-  mkswap /dev/sdx2
-  swapon /dev/sdx2
-  mkfs.ext4 /dev/sdx3
+>mkfs.fat -f32 /dev/xxx1                                                                                                          (X)
+  mkswap /dev/xxx2
+  swapon /dev/xxx2
+  mkfs.ext4 /dev/xxx3
 
 >lsblk -l
 
->mount /dev/sdx3 /mnt
+>mount /dev/xxx3 /mnt
   mkdir /mnt/boot
   mkdir /mnt/boot/efi                                                                                                                 (X)
-  mount /dev/sdx1 /mnt/boot/efi
+  mount /dev/xxx1 /mnt/boot/efi
 
 ## Installation
 >pacstrap /mnt base base-devel linux linux-firmware vim reflector
@@ -65,7 +65,7 @@
 >grub-install --target=x86_64-efi --efi- directory=/boot/efi                                                 (X)
 
 BIOS-only
->grub-install --target=i386-pc /dev/sdx
+>grub-install --target=i386-pc /dev/xxx
 
 	
 >grub-mkconfig -o /boot/grub.cfg
@@ -80,10 +80,12 @@ BIOS-only
 >passwd xdrd
 >EDITOR=vim vsudo
 
-			uncomment % wheel All=(All)All
+#### uncomment
+```bash
+% wheel All=(All)All
+```
 
-# End
-
+---
 References: [Arch_Wiki_Installation](https://wiki.archlinux.org/title/Installation_guide) 
 
 Related:[Arch_Wiki](https://wiki.archlinux.org/)
