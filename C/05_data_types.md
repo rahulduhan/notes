@@ -6,8 +6,13 @@
 	 - memory size -> ```c printf("%lu",sizeof(int)); // 4 bytes in most of the computers```
 	 - short int -> 1 byte
 	 - long int -> 4 bytes
+
+		> int for 16 bit -> 
+		> 	=> signed -> -32768 to 32747  (default)
+		> 	=>unsigned -> 0 to 65535 
 - float
-	- memory size -> 1 byte or 
+	- memory size -> 1 byte or 8 bit
+	- 
 - char
 - double
 - void
