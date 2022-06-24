@@ -20,13 +20,14 @@
 - enumerated
 
 
-##                                               Primary data types
+
+### Primary data types
 
 - int 
 	 - memory size 
-	   ```c 
 	   printf("%lu",sizeof(int)); // 4 bytes in most of the computers
 	   ```
+	   ```c 
 	 - short int - `1 byte`
 	 - long int - `4 bytes`
 	 - int for 16 bit - 
