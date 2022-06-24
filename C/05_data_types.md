@@ -4,8 +4,8 @@
 ## Primary
 
 - int
-
 - float
+- double
 - char
 - void
 
