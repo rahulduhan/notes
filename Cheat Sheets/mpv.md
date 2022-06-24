@@ -1,2 +1,2 @@
 # mpv cheatsheet
-<img src = 
+<img src = ../Attachments/MPV_Keybinds.png>
