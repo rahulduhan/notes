@@ -23,10 +23,11 @@
 #### Ternery
 - `condition ? value_if_true : value_if_false`
 	- eg 
-	 ```c
+```c
 int a = 10, b = 20, c;
 
 c = (a < b) ? a : b;
 
 printf("%d", c);
+
 ```
