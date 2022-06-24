@@ -9,10 +9,11 @@
 	   ```
 	 - short int -> 1 byte
 	 - long int -> 4 bytes
-	 <br>
 	  - int for 16 bit -> 
 		 -  signed -> -32768 to 32747  (default)
-		 -   unsigned -> 0 to 65535 
+		 -   unsigned -> 0 to 65535
+	 - int for 32 bit
+		 -  
 - float
 	- memory size -> 1 byte or 8 bit
 	- 
