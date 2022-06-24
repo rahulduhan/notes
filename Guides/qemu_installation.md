@@ -1,4 +1,8 @@
+<<<<<<< HEAD:Guides/qemu_installation.md
 # [[qemu_installation]]
+=======
+# qemu installation
+>>>>>>> origin/main:Guides/qemu installation.md
 
 ### Required Pacakages
 ``` bash
