@@ -3,7 +3,10 @@
 
 ## Primary
 - int 
-	 - memory size -> ```c printf("%lu",sizeof(int)); // 4 bytes in most of the computers```
+	 - memory size 
+	   ```c 
+	   printf("%lu",sizeof(int)); // 4 bytes in most of the computers
+	   ```
 	 - short int -> 1 byte
 	 - long int -> 4 bytes
 
