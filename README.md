@@ -2,8 +2,10 @@
 `Important Notes`
 
 #### TO DO 
-- [ ] C Rewrite
+- [ ] C Notes Rewrite
 - [x] HTML 
 - [ ] CSS
 - [ ] Lua
 - [ ] Agriculture Notes
+- [ ] Guides
+- [ ] 
