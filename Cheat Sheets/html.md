@@ -1,6 +1,5 @@
 ---
 title: HTML Cheatsheet
-slug: Learn/HTML/Cheatsheet
 tags:
   - Beginner
   - Cheatsheet
