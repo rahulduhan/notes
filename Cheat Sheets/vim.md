@@ -13,7 +13,11 @@ tags:
   - cheatsheet
 ---
 
-C-c    copy all
-leader-tt    toggle theme
-leader-th    select theme
-leader-uu    update nvchad
+keybind | description
+------------|----------
+C-c | copy all
+leader-tt | toggle theme
+leader-th |   select theme
+leader-uu |   update nvchad
+
+
