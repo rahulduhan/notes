@@ -1,9 +1,9 @@
 
-<!--DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <!title>CatPhotoApp</title>
-  </head-->
+  </head>
   <body>
     <h1>CatPhotoApp</h1>
     <main>
