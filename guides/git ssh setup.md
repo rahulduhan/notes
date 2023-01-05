@@ -6,7 +6,8 @@
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
-	optionally add a passphrase
+   optionally add a passphrase
+
 
 2. Start ssh-agent in background
 
