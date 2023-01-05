@@ -1,7 +1,7 @@
 
-###### VIM tutor summary
+# VIM tutor summary
 
-#### Lesson 1 SUMMARY
+### Lesson 1 SUMMARY
 
  1. The cursor is moved using either the arrow keys or the hjkl keys.
      h (left)   j (down)       k (up)       l (right)
@@ -250,4 +250,4 @@ v               " visual mode
 ```vim
 cw               " change word
 c$ or C          " change to the end of the line
-```j
+```
