@@ -1,6 +1,11 @@
 # VIM cheatsheet
 
 
+## From vim tutor
+
+wip
+
+
 ### NVCHAD hotkeys 
 
 keybind | description

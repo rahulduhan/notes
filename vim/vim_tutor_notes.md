@@ -1,4 +1,29 @@
-## VIM Notes from VIM Tutor 
+
+## VIM tutor summary
+
+### Lesson 1 SUMMARY
+
+ 1. The cursor is moved using either the arrow keys or the hjkl keys.
+     h (left)   j (down)       k (up)       l (right)
+
+ 2. To start Neovim from the shell prompt type:
+~~~ sh
+    $ nvim FILENAME
+~~~
+ 3. To exit Neovim type: `<Esc>`{normal} `:q!`{vim} `<Enter>`{normal} to trash all changes.
+                OR type: `<Esc>`{normal} `:wq`{vim} `<Enter>`{normal} to save the changes.
+
+ 4. To delete the character at the cursor type: `x`{normal}
+
+ 5. To insert or append text type:
+    `i`{normal} insert text `<Esc>`{normal}     insert before the cursor.
+    `A`{normal} append text `<Esc>`{normal}     append after the line.
+
+NOTE: Pressing `<Esc>`{normal} will place you in Normal mode or will cancel
+      an unwanted and partially completed command.
+
+
+## VIM Notes from VIM Tutor by Luke Smith
 ```vim
 gj " to move to next visual line
 gk " to move to previous visual line
