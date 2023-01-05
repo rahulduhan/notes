@@ -7,6 +7,7 @@ sudo pacman -S qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-n
 - Otional for UEFI support
 ```bash
 sudo pacman -S edk2-ovmf
+​
 ```
 
 ### Start the Service
