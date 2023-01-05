@@ -1,3 +1,5 @@
+# automount drives
+
 1. Make a directory where you want to automount. Eg: 
 ```bash 
 mkdir /mnt/data
@@ -13,3 +15,5 @@ sudo blkid
 ```bash
 sudo vim /etc/fstab
 ```
+
+4. Reboot 
