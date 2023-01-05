@@ -4,4 +4,12 @@ mkdir /mnt/data
 ```
 
 
-2. Use blkid to know the uid
+2. Use blkid to know the uuid of the drive
+```bash
+sudo blkid
+```
+
+3. Add the entery of the drive with the UUID with the fstab
+```bash
+sudo vim /etc/fstab
+```
