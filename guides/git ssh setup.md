@@ -25,5 +25,5 @@ ssh-add ~/.ssh/id_ed25519
 4. Get the public key for setup
 
 ```bash
-cat 
+cat .ssh/id_ed25519.pub | xclip -selection c
 ```
