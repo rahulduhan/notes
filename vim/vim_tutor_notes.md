@@ -69,4 +69,4 @@ v               " visual mode
 ```vim
 cw               " change word
 c$ or C          " change to the end of the line
-```
+```j
