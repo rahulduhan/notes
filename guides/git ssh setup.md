@@ -1,4 +1,4 @@
-# git ssh setup
+# Git SSH setup
 
 1. Generate new SSH key and optionally add a passphrase
 

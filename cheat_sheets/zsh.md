@@ -1,4 +1,4 @@
-# zsh cheatsheet
+# ZSH cheatsheet
 ---
 ## Installation
 ```bash

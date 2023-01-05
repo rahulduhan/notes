@@ -1,4 +1,4 @@
-# qemu installation
+# QEMU installation
 
 ### Required Pacakages
 ``` bash

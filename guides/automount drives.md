@@ -1,4 +1,4 @@
-# automount drives
+# Automount drives
 
 1. Make a directory where you want to automount. Eg: 
 ```bash 
