@@ -1,13 +1,10 @@
 # git ssh setup
 
-1. Generate new SSH key
+1. Generate new SSH key and optionally add a passphrase
 
 ```bash 
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
-
-   optionally add a passphrase
-
 
 2. Start ssh-agent in background
 
