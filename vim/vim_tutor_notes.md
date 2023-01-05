@@ -175,10 +175,6 @@ NOTE: Pressing `<Esc>`{normal} will place you in Normal mode or will cancel
 
 
 
-
-
-
-
 ###### VIM Notes from VIM Tutor by Luke Smith
 ```vim
 gj " to move to next visual line
